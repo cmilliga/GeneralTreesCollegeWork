@@ -1,0 +1,10 @@
+Smith 3
+George 3
+Alan 0
+Stefani 0
+Alexis 2
+Camilla 0
+Fred 0
+Paulette 0
+Ivan 1
+Vlad 0

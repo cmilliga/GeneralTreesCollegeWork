@@ -1,0 +1,48 @@
+Milligan
+  Leslie
+    Jack
+    Alec
+  Rob
+    Paige
+    Connor
+  Jay
+    Cecily
+    Jake
+Milligan has no parent.
+Node Rob's oldest child is Paige
+Node Jay's child: Cecily
+Node Jay's child: Jake
+Steiner
+  Liz
+    Paige
+    Connor
+  John
+    Meagan
+    Emily
+  Carolyn
+    Robin
+    Audrey
+  Casey
+    Lily
+    Ben
+  MaryAnn
+Liz has parent Steiner
+Node Robin has no children.
+Node Steiner's child: Liz
+Node Steiner's child: John
+Node Steiner's child: Carolyn
+Node Steiner's child: Casey
+Node Steiner's child: MaryAnn
+Smith
+  George
+    Alan
+    Stefani
+    Alexis
+      Camilla
+      Fred
+  Paulette
+  Ivan
+    Vlad
+Vlad has parent Ivan
+Node Smith's oldest child is George
+Node Stefani has no children.
